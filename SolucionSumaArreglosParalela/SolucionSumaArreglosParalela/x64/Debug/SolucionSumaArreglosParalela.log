@@ -1,6 +1,0 @@
-﻿  SolucionSumaArreglosParalela.cpp
-C:\Users\JC\source\repos\SolucionSumaArreglosParalela\SolucionSumaArreglosParalela\SolucionSumaArreglosParalela.cpp(34,25): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-C:\Users\JC\source\repos\SolucionSumaArreglosParalela\SolucionSumaArreglosParalela\SolucionSumaArreglosParalela.cpp(45,28): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\JC\source\repos\SolucionSumaArreglosParalela\SolucionSumaArreglosParalela\SolucionSumaArreglosParalela.cpp(46,28): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\JC\source\repos\SolucionSumaArreglosParalela\SolucionSumaArreglosParalela\SolucionSumaArreglosParalela.cpp(15,5): warning C4101: 'i': variable local sin referencia
-  SolucionSumaArreglosParalela.vcxproj -> C:\Users\JC\source\repos\SolucionSumaArreglosParalela\x64\Debug\SolucionSumaArreglosParalela.exe
