@@ -1,0 +1,5 @@
+﻿  GuIa_1_suma_ en_paralelo_2 arreglos.cpp
+C:\Users\JC\source\repos\GuIa_1_suma_ en_paralelo_2 arreglos\GuIa_1_suma_ en_paralelo_2 arreglos.cpp(22,17): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\JC\source\repos\GuIa_1_suma_ en_paralelo_2 arreglos\GuIa_1_suma_ en_paralelo_2 arreglos.cpp(23,22): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\JC\source\repos\GuIa_1_suma_ en_paralelo_2 arreglos\GuIa_1_suma_ en_paralelo_2 arreglos.cpp(13,5): warning C4101: 'i': variable local sin referencia
+  GuIa_1_suma_ en_paralelo_2 arreglos.vcxproj -> C:\Users\JC\source\repos\GuIa_1_suma_ en_paralelo_2 arreglos\x64\Debug\GuIa_1_suma_ en_paralelo_2 arreglos.exe
